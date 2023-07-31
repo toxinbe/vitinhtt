@@ -1,0 +1,184 @@
+.reset {
+    margin: 0;
+    padding: 0;
+}
+
+.logo-header .logo {
+    margin-left: 20px;
+    width: fit-content;
+}
+
+.logo-header .logo img {
+    width: 65%;
+}
+
+.navbar .navbar-nav .notification {
+    background-color: #EB3E32;
+}
+
+.quick-actions.quick-actions-info .quick-actions-item {
+    color: #1262c7;
+}
+
+.quick-actions.quick-actions-info:after {
+    border-bottom-color: #1262c7 !important;
+}
+
+.quick-actions.quick-actions-info .quick-actions-header,
+.nenxanh:hover {
+    background-color: #1262c7 !important;
+}
+
+.nenxanh {
+    background: #1572e8!important;
+}
+
+.dropdown-title,
+.fontsize16 {
+    font-size: 16px;
+}
+
+.messages-notif-box .notif-center a .notif-content .subject,
+.notif-box .notif-center a .notif-content .subject {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.messages-notif-box .notif-center a .notif-content .block,
+.notif-box .notif-center a .notif-content .block,
+.messages-notif-box .see-all,
+.messages-notif-box .see-all:hover,
+.notif-box .see-all,
+.notif-box .see-all:hover,
+.fontsize14 {
+    font-size: 14px;
+}
+
+.messages-notif-box .notif-center a .notif-content .time,
+.notif-box .notif-center a .notif-content .time {
+    font-size: 12px;
+}
+
+.notif-content {
+    width: max-content;
+}
+
+.quick-actions .quick-actions-item {
+    border: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.table-responsive #add-row tbody tr td img {
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+#add-row th,
+#add-row td {
+    text-align: center;
+}
+
+.candeu {
+    text-align: justify!important;
+}
+
+.cangiua {
+    text-align: center!important;
+}
+
+.cantrai {
+    text-align: left!important;
+}
+
+.canphai {
+    text-align: right!important;
+}
+
+.thongtinhinhsua {
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+
+.giuadong {
+    vertical-align: middle!important;
+}
+
+.form-check [type=checkbox]+.form-check-sign:after,
+.form-check [type=checkbox]:checked+.form-check-sign:after,
+.form-check [type=checkbox]:not(:checked)+.form-check-sign:after {
+    top: 1px !important;
+    left: 1px !important;
+    font-size: 1.65em !important;
+}
+
+.baodo {
+    color: #f25961!important;
+    font-weight: 900!important;
+    font-size: 16px !important;
+}
+
+.baovang {
+    color: #ffad46!important;
+    font-weight: 900!important;
+    font-size: 16px !important;
+}
+
+.disclaimer,
+.displaynone {
+    display: none!important;
+}
+
+.thongbao {
+    width: 100%;
+}
+
+.thongbao,
+.donglienhe {
+    color: #4d585f;
+    text-decoration: none !important;
+    background-color: #fafafa!important;
+}
+
+.icon-thongbao {
+    color: #1572e8!important;
+    padding: 10px;
+    font-size: 2rem;
+    line-height: 1.2;
+    text-align: center
+}
+
+.tieude-thongbao,
+.thoigian-thongbao {
+    font-weight: 600;
+    line-height: 1.1!important;
+    font-size: 15px!important;
+    text-align: left!important;
+}
+
+.thoigian-thongbao {
+    font-weight: 400;
+    font-size: 10px!important;
+}
+
+.noidung-thongbao {
+    font-size: 12px!important;
+}
+
+.thongbao:hover {
+    color: #333!important;
+    text-decoration: none !important;
+    background-color: #f0f0f0!important;
+}
+
+.vietthuong {
+    text-transform: lowercase!important;
+}
+
+.viethoachudau {
+    text-transform: capitalize!important;
+}
+
+.viethoachudautien {
+    text-transform: inherit!important;
+}
