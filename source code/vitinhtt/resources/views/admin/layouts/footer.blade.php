@@ -20,7 +20,7 @@
             </ul>
         </nav>
         <div class="copyright ml-auto">
-            &copy;2022 Trương Ngọc Toàn & Nguyễn Hoàng Tiến
+        Copyright&copy; 2022 Nguyễn Hoàng Tiến - ToxinBe
         </div>
     </div>
 </footer>

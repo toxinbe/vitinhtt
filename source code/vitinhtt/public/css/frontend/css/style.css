@@ -7042,3 +7042,7 @@ span.required {
 .disclaimer {
     display: none;
 }
+
+.copyright{
+    font-style: italic!important;
+}

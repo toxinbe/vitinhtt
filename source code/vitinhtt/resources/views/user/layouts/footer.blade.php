@@ -158,7 +158,7 @@
                 <!-- Footer Payment Area End Here -->
                 <!-- Begin Copyright Area -->
                 <div class="copyright text-center pt-15 pb-20">
-                    <span>&copy;2022 Trương Ngọc Toàn & Nguyễn Hoàng Tiến</span>
+                    <span>Copyright&copy; 2022 Nguyễn Hoàng Tiến - ToxinBe</span>
                 </div>
                 <!-- Copyright Area End Here -->
             </div>
